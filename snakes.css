@@ -1,0 +1,80 @@
+
+table {
+	padding-left: 234px;
+	
+}
+
+tr {
+	border:1px solid black;
+}
+td {
+	border:1px solid black;
+	width:70px;
+	height:55px;
+}
+.red {
+	background-color: #D14F4F;
+}
+.blue {
+	background-color: #7B5CAF;
+}
+.brown {
+	background-color: #C77727;
+}
+.yellow {
+	background-color: #10E9E6;
+}
+.green {
+	background-color: #24D50D;
+}
+#one {
+
+	position:absolute;
+	height:180px;
+	width:200px;
+	padding-left:770px;
+	padding-top:394px;
+
+}
+#two {
+	position:absolute;
+	height:250px;
+	width:250px;
+	padding-left:504px;
+	padding-top:277px
+
+}
+#three {
+	position:absolute;
+	height:400px;
+	width:80px;
+	padding-left:472px;
+	padding-top:10px
+
+}
+
+#four {
+	position:absolute;
+    padding-left: 738px;
+    width: 307px;
+    padding-top: 50px;
+    height: 249px;
+}
+#five {
+	position:absolute;
+   	padding-top: 372px;
+    padding-left: 336px;
+    width: 198px;
+    height: 205px;
+}
+#six {
+	position:absolute;
+   	width: 356px;
+    height: 202px;
+    padding-top: 0px;
+    padding-left: 497px;
+}
+
+
+
+
